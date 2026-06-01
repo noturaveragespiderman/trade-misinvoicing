@@ -1,0 +1,20 @@
+code,abbr,dimension,factor_to_base,notes
+2,m²,area,1,Base unit for area. No other area code in the table so this only ever matches itself.
+3,1000 kWh,energy,1000,1000 kWh = 1000 base units (kWh).
+4,m,length,1,Base unit for length.
+5,u,count,1,Base unit for count (single item).
+6,2u,count,2,One 'pair' counts as 2 individual items.
+7,l,volume,1,Base unit for volume.
+8,kg,mass,1,Base unit for mass.
+9,1000u,count,1000,1000 items.
+11,12u,count,12,One dozen = 12 individual items.
+12,m³,volume,1000,1 m³ = 1000 L.
+13,carat,mass,0.0002,1 carat = 200 mg = 0.0002 kg (metric carat).
+14,km,length,1000,1 km = 1000 m.
+15,g,mass,0.001,1 g = 0.001 kg.
+17,1000 m³,volume,1000000,1000 m³ = 1 000 000 L.
+18,TJ,energy,277777.7778,1 TJ = 277 777.778 kWh (10^12 J ÷ 3.6e6 J/kWh).
+19,BBL,volume,158.987,1 standard oil barrel = 158.987 L.
+20,1000 L,volume,1000,1000 L = 1000 base units.
+21,1000 KG,mass,1000,1000 kg = 1 metric tonne.
+22,kWH,energy,1,Base unit for energy.

@@ -1,0 +1,19 @@
+motCode,factor,name,description
+0,0.10,TOTAL modes of transport,"Default fallback when motCode is the all-modes aggregate. Held at 0.10 to match the legacy IMF default; tune via CIF_FOB_DEFAULT in app/config.py."
+1000,0.20,Air,"Air freight on lightweight / high-value goods (electronics, pharmaceuticals). Range 15-30%; 20% is mid-range. Note: HS 71 (gold, precious metals) is air-freighted but the cost structure is dominated by insurance, not freight."
+2000,0.05,Water,Average across sea + inland waterway when the sub-mode is not reported.
+2100,0.05,Sea,"Bulk and containerised sea freight. IMF DOTS / UNCTAD typical range 3-7%; 5% is the mid-range used by Ndikumana 2014/2016."
+2200,0.04,Inland waterway,Rivers / canals / lakes. Low-cost; comparable to rail.
+2900,0.05,"Water, not elsewhere classified",Same default as the Water aggregate.
+3000,0.04,Land,Average across rail + road when the sub-mode is not reported.
+3100,0.04,Railway,Cross-border rail freight; low-cost on long inland hauls. 3-5% typical.
+3200,0.04,Road,Trucked freight; depends heavily on distance but 3-5% is the common cited band.
+3900,0.04,"Land, not elsewhere classified",Same default as the Land aggregate.
+9000,0.10,Not elsewhere classified,Same as the all-modes default — mode unspecified.
+9100,0.02,Pipelines and cables,Pipelines and electrical grid. Almost no marginal freight cost — primarily metering and insurance.
+9110,0.02,Pipelines,Oil and gas pipelines.
+9120,0.02,Cables,Electrical and data cables.
+9190,0.02,"Pipelines and cables, not elsewhere classified",Same default as pipelines / cables.
+9200,0.15,"Postal consignments, mail or courier shipments",Postal parcels — small high-value goods. 10-20% range; 15% midpoint.
+9300,0.05,Self-propelled goods,Vehicles or vessels moving under their own power across the border. ~5% covers fuel + crew amortisation.
+9900,0.10,Other,Mode unknown / not specified; falls back to the all-modes default.

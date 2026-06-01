@@ -1,0 +1,10 @@
+code,iso3,name,role,note
+344,HKG,Hong Kong SAR,major entrepôt,"Massive re-export hub for China; the canonical China-HK mirror gap target in Ferrantino/Liu/Wang (2012) and the GFI methodology."
+446,MAC,Macao SAR,minor entrepôt,Smaller HK companion; included for completeness.
+702,SGP,Singapore,major entrepôt,"Asia's primary trans-shipment port; bunker fuel + electronics + petrochemicals."
+528,NLD,Netherlands,major entrepôt,"Rotterdam — the EU's principal port of entry. Drives the ""Rotterdam effect"" measured in EU/EDICOM papers."
+56,BEL,Belgium,major entrepôt,"Antwerp — second EU port; chemicals, diamonds, cars."
+784,ARE,United Arab Emirates,major entrepôt,"Jebel Ali / Dubai free zone; gold + electronics + general re-exports."
+591,PAN,Panama,major entrepôt,"Colón Free Zone — Latin America's largest re-export hub."
+756,CHE,Switzerland,commodity trading,"Geneva-based commodity trading houses route ~30 % of world oil + metals; appears on the books as Swiss exports."
+442,LUX,Luxembourg,minor entrepôt,Financial-trade hub; smaller volume but appears as outlier in some EU studies.

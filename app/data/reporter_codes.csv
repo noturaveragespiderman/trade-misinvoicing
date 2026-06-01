@@ -1,0 +1,275 @@
+id,iso_code,name,continent,status,partner_desc,full_name,isoalpha_2,isoalpha_3,entry_date,group
+1,0,World,World,World,World,World,,W00,1901,true
+2,4,Afghanistan,Asia,Sovereign Country,Afghanistan,Afghanistan,AF,AFG,1900,false
+3,8,Albania,Europe,Sovereign Country,Albania,Albania,AL,ALB,1900,false
+4,10,Antarctica,Antartica,Territory,Antarctica,Antarctica,AQ,ATA,1900,false
+5,12,Algeria,Africa,Sovereign Country,Algeria,Algeria,DZ,DZA,1900,false
+6,16,American Samoa,Oceania,Other Entity,American Samoa,American Samoa,AS,ASM,1900,false
+7,20,Andorra,Europe,Sovereign Country,Andorra,Andorra,AD,AND,1900,false
+8,24,Angola,Africa,Sovereign Country,Angola,Angola,AO,AGO,1900,false
+9,28,Antigua and Barbuda,North America,Sovereign Country,Antigua and Barbuda,Antigua and Barbuda,AG,ATG,1900,false
+10,31,Azerbaijan,Asia,Sovereign Country,Azerbaijan,Azerbaijan,AZ,AZE,1992,false
+11,32,Argentina,South America,Sovereign Country,Argentina,Argentina,AR,ARG,1900,false
+12,36,Australia,Oceania,Sovereign Country,Australia,Australia,AU,AUS,1900,false
+13,40,Austria,Europe,Sovereign Country,Austria,Austria,AT,AUT,1900,false
+14,44,Bahamas,North America,Sovereign Country,Bahamas,Bahamas,BS,BHS,1900,false
+15,48,Bahrain,Asia,Sovereign Country,Bahrain,Bahrain,BH,BHR,1900,false
+16,50,Bangladesh,Asia,Sovereign Country,Bangladesh,Bangladesh,BD,BGD,1972,false
+17,51,Armenia,Asia,Sovereign Country,Armenia,Armenia,AM,ARM,1992,false
+18,52,Barbados,North America,Sovereign Country,Barbados,Barbados,BB,BRB,1900,false
+19,56,Belgium,Europe,Sovereign Country,Belgium,Belgium,BE,BEL,1999,false
+20,60,Bermuda,North America,Other Entity,Bermuda,Bermuda,BM,BMU,1900,false
+21,64,Bhutan,Asia,Sovereign Country,Bhutan,Bhutan,BT,BTN,1900,false
+22,68,Bolivia,South America,Sovereign Country,Bolivia (Plurinational State of),Plurinational State of Bolivia,BO,BOL,1900,false
+23,70,Bosnia Herzegovina,Europe,Sovereign Country,Bosnia Herzegovina,Bosnia Herzegovina,BA,BIH,1992,false
+24,72,Botswana,Africa,Sovereign Country,Botswana,Botswana,BW,BWA,2000,false
+25,74,Bouvet Island,Antartica,Other Entity,Bouvet Island,Ile Bouvet,BV,BVT,1900,false
+26,76,Brazil,South America,Sovereign Country,Brazil,Brazil,BR,BRA,1900,false
+27,80,Br. Antarctic Terr.,North America,Other Entity,Br. Antarctic Terr.,British Antarctic Territories,BQ,ATB,1900,false
+28,84,Belize,North America,Sovereign Country,Belize,Belize,BZ,BLZ,1900,false
+29,86,Br. Indian Ocean Terr.,Asia,Other Entity,Br. Indian Ocean Terr.,British Indian Ocean Territories,IO,IOT,1900,false
+30,90,Solomon Isds,Oceania,Sovereign Country,Solomon Isds,Solomon Islands,SB,SLB,1900,false
+31,92,Br. Virgin Isds,North America,Other Entity,Br. Virgin Isds,British Virgin Islands,VG,VGB,1900,false
+32,96,Brunei Darussalam,Asia,Sovereign Country,Brunei Darussalam,Brunei Darussalam,BN,BRN,1900,false
+33,100,Bulgaria,Europe,Sovereign Country,Bulgaria,Bulgaria,BG,BGR,1900,false
+34,104,Myanmar,Asia,Sovereign Country,Myanmar,Myanmar,MM,MMR,1900,false
+35,108,Burundi,Africa,Sovereign Country,Burundi,Burundi,BI,BDI,1900,false
+36,112,Belarus,Europe,Sovereign Country,Belarus,Belarus,BY,BLR,1992,false
+37,116,Cambodia,Asia,Sovereign Country,Cambodia,Cambodia,KH,KHM,1900,false
+38,120,Cameroon,Africa,Sovereign Country,Cameroon,Cameroon,CM,CMR,1900,false
+39,124,Canada,North America,Sovereign Country,Canada,Canada,CA,CAN,1900,false
+40,129,"Caribbean, nes",North America,NES,"Caribbean, nes","Caribbean, not elsewhere specified",,A49,1900,true
+41,132,Cabo Verde,Africa,Sovereign Country,Cabo Verde,Cabo Verde,CV,CPV,1900,false
+42,136,Cayman Isds,North America,Other Entity,Cayman Isds,Cayman Islands,KY,CYM,1900,false
+43,140,Central African Rep.,Africa,Sovereign Country,Central African Rep.,Central African Republic,CF,CAF,1900,false
+44,144,Sri Lanka,Asia,Sovereign Country,Sri Lanka,Sri Lanka,LK,LKA,1900,false
+45,148,Chad,Africa,Sovereign Country,Chad,Chad,TD,TCD,1900,false
+46,152,Chile,South America,Sovereign Country,Chile,Chile,CL,CHL,1900,false
+47,156,China,Asia,Sovereign Country,China,China,CN,CHN,1900,false
+48,158,"Taiwan, Province of China",Asia,Other Entity,"Taiwan, Province of China","Taiwan, Province of China",TW,TWN,1900,false
+49,162,Christmas Isds,Asia,Other Entity,Christmas Isds,Christmas Islands,CX,CXR,1900,false
+50,166,Cocos Isds,Asia,Other Entity,Cocos Isds,Cocos Islands,CC,CCK,1900,false
+51,170,Colombia,South America,Sovereign Country,Colombia,Colombia,CO,COL,1900,false
+52,174,Comoros,Africa,Sovereign Country,Comoros,Comoros,KM,COM,1900,false
+53,178,Congo,Africa,Sovereign Country,Congo,Congo,CG,COG,1900,false
+54,180,Dem. Rep. of the Congo,Africa,Sovereign Country,Dem. Rep. of the Congo,Democratic Republic of the Congo,CD,COD,1900,false
+55,184,Cook Isds,Oceania,Other Entity,Cook Isds,Cook Islands,CK,COK,1900,false
+56,188,Costa Rica,North America,Sovereign Country,Costa Rica,Costa Rica,CR,CRI,1900,false
+57,191,Croatia,Europe,Sovereign Country,Croatia,Croatia,HR,HRV,1992,false
+58,192,Cuba,North America,Sovereign Country,Cuba,Cuba,CU,CUB,1900,false
+59,196,Cyprus,Asia,Sovereign Country,Cyprus,Cyprus,CY,CYP,1900,false
+60,203,Czechia,Europe,Sovereign Country,Czechia,Czechia,CZ,CZE,1993,false
+61,204,Benin,Africa,Sovereign Country,Benin,Benin,BJ,BEN,1900,false
+62,208,Denmark,Europe,Sovereign Country,Denmark,Denmark,DK,DNK,1900,false
+63,212,Dominica,North America,Sovereign Country,Dominica,Dominica,DM,DMA,1900,false
+64,214,Dominican Rep.,North America,Sovereign Country,Dominican Rep.,Dominican Republic,DO,DOM,1900,false
+65,218,Ecuador,South America,Sovereign Country,Ecuador,Ecuador,EC,ECU,1900,false
+66,221,"Eastern Europe, nes",Europe,NES,"Eastern Europe, nes","Eastern Europe, not elsewhere specified",,E29,1900,true
+67,222,El Salvador,North America,Sovereign Country,El Salvador,El Salvador,SV,SLV,1900,false
+68,226,Equatorial Guinea,Africa,Sovereign Country,Equatorial Guinea,Equatorial Guinea,GQ,GNQ,1900,false
+69,231,Ethiopia,Africa,Sovereign Country,Ethiopia,Ethiopia,ET,ETH,1993,false
+70,232,Eritrea,Africa,Sovereign Country,Eritrea,Eritrea,ER,ERI,1993,false
+71,233,Estonia,Europe,Sovereign Country,Estonia,Estonia,EE,EST,1992,false
+72,234,Faroe Isds,Europe,Other Entity,Faroe Isds,Faroe Islands,FO,FRO,1900,false
+73,238,Falkland Isds,South America,Other Entity,Falkland Isds (Malvinas),Falkland Islands (Malvinas),FK,FLK,1900,false
+74,239,South Georgia and the South Sandwich Islands,South America,Other Entity,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,GS,SGS,1900,false
+75,242,Fiji,Oceania,Sovereign Country,Fiji,Fiji,FJ,FJI,1900,false
+76,246,Finland,Europe,Sovereign Country,Finland,Finland,FI,FIN,1900,false
+77,248,Åland Islands,Europe,Other Entity,Åland Islands,Åland Islands,AX,ALA,1900,false
+78,250,Metropolitan France,Europe,Other Entity,Metropolitan France,Metropolitan France,FR,FRA,1900,false
+79,251,France,Europe,Sovereign Country,France,"France, Monaco",FR,FRA,1900,false
+80,258,French Polynesia,Oceania,Other Entity,French Polynesia,French Polynesia,PF,PYF,1900,false
+81,260,Fr. South Antarctic Terr.,Antartica,Territory,Fr. South Antarctic Terr.,French South Antarctic Territories,TF,ATF,1900,false
+82,262,Djibouti,Africa,Sovereign Country,Djibouti,Djibouti,DJ,DJI,1900,false
+83,266,Gabon,Africa,Sovereign Country,Gabon,Gabon,GA,GAB,1900,false
+84,268,Georgia,Asia,Sovereign Country,Georgia,Georgia,GE,GEO,1992,false
+85,270,Gambia,Africa,Sovereign Country,Gambia,Gambia,GM,GMB,1900,false
+86,275,State of Palestine,Asia,Sovereign Country,State of Palestine,State of Palestine,PS,PSE,2000,false
+87,276,Germany,Europe,Sovereign Country,Germany,Germany,DE,DEU,1991,false
+88,288,Ghana,Africa,Sovereign Country,Ghana,Ghana,GH,GHA,1900,false
+89,290,"Northern Africa, nes",Africa,NES,"Northern Africa, nes","Northern Africa, not elsewhere specified",,F49,1900,true
+90,292,Gibraltar,Europe,Other Entity,Gibraltar,Gibraltar,GI,GIB,1900,false
+91,296,Kiribati,Oceania,Sovereign Country,Kiribati,Kiribati,KI,KIR,1900,false
+92,300,Greece,Europe,Sovereign Country,Greece,Greece,GR,GRC,1900,false
+93,304,Greenland,North America,Other Entity,Greenland,Greenland,GL,GRL,1900,false
+94,308,Grenada,North America,Sovereign Country,Grenada,Grenada,GD,GRD,1900,false
+95,316,Guam,Oceania,Other Entity,Guam,Guam,GU,GUM,1900,false
+96,320,Guatemala,North America,Sovereign Country,Guatemala,Guatemala,GT,GTM,1900,false
+97,324,Guinea,Africa,Sovereign Country,Guinea,Guinea,GN,GIN,1900,false
+98,328,Guyana,South America,Sovereign Country,Guyana,Guyana,GY,GUY,1900,false
+99,332,Haiti,North America,Sovereign Country,Haiti,Haiti,HT,HTI,1900,false
+100,334,Heard Island and McDonald Islands,Antartica,Other Entity,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,1900,false
+101,336,Holy See,Europe,Sovereign Country,Holy See (Vatican City State),Holy See (Vatican City State),VA,VAT,1900,false
+102,340,Honduras,North America,Sovereign Country,Honduras,Honduras,HN,HND,1900,false
+103,344,"China, Hong Kong SAR",Asia,Other Entity,"China, Hong Kong SAR","China, Hong Kong Special Administrative Region",HK,HKG,1900,false
+104,348,Hungary,Europe,Sovereign Country,Hungary,Hungary,HU,HUN,1900,false
+105,352,Iceland,Europe,Sovereign Country,Iceland,Iceland,IS,ISL,1900,false
+106,360,Indonesia,Asia,Sovereign Country,Indonesia,Indonesia,ID,IDN,1900,false
+107,364,Iran,Asia,Sovereign Country,Iran,Iran,IR,IRN,1900,false
+108,368,Iraq,Asia,Sovereign Country,Iraq,Iraq,IQ,IRQ,1900,false
+109,372,Ireland,Europe,Sovereign Country,Ireland,Ireland,IE,IRL,1900,false
+110,376,Israel,Asia,Sovereign Country,Israel,Israel,IL,ISR,1900,false
+111,380,Italy,Europe,Sovereign Country,Italy,Italy,IT,ITA,1900,false
+112,384,Côte d'Ivoire,Africa,Sovereign Country,Côte d'Ivoire,Côte d'Ivoire,CI,CIV,1900,false
+113,388,Jamaica,North America,Sovereign Country,Jamaica,Jamaica,JM,JAM,1900,false
+114,392,Japan,Asia,Sovereign Country,Japan,Japan,JP,JPN,1900,false
+115,398,Kazakhstan,Asia,Sovereign Country,Kazakhstan,Kazakhstan,KZ,KAZ,1992,false
+116,400,Jordan,Asia,Sovereign Country,Jordan,Jordan,JO,JOR,1900,false
+117,404,Kenya,Africa,Sovereign Country,Kenya,Kenya,KE,KEN,1900,false
+118,408,Dem. People's Rep. of Korea,Asia,Sovereign Country,Dem. People's Rep. of Korea,Democratic People's Republic of Korea,KP,PRK,1900,false
+119,410,Rep. of Korea,Asia,Sovereign Country,Rep. of Korea,Republic of Korea,KR,KOR,1900,false
+120,412,Kosovo,Europe,Territory,Kosovo,Kosovo,,_KS,1900,false
+121,414,Kuwait,Asia,Sovereign Country,Kuwait,Kuwait,KW,KWT,1900,false
+122,417,Kyrgyzstan,Asia,Sovereign Country,Kyrgyzstan,Kyrgyzstan,KG,KGZ,1992,false
+123,418,Lao People's Dem. Rep.,Asia,Sovereign Country,Lao People's Dem. Rep.,Lao People's Dem. Rep.,LA,LAO,1900,false
+124,422,Lebanon,Asia,Sovereign Country,Lebanon,Lebanon,LB,LBN,1900,false
+125,426,Lesotho,Africa,Sovereign Country,Lesotho,Lesotho,LS,LSO,2000,false
+126,428,Latvia,Europe,Sovereign Country,Latvia,Latvia,LV,LVA,1992,false
+127,430,Liberia,Africa,Sovereign Country,Liberia,Liberia,LR,LBR,1900,false
+128,434,Libya,Africa,Sovereign Country,Libya,Libya,LY,LBY,1900,false
+129,438,Liechtenstein,Europe,Sovereign Country,Liechtenstein ,Liechtenstein ,LI,LIE,1900,false
+130,440,Lithuania,Europe,Sovereign Country,Lithuania,Lithuania,LT,LTU,1992,false
+131,442,Luxembourg,Europe,Sovereign Country,Luxembourg,Luxembourg,LU,LUX,1999,false
+132,446,"China, Macao SAR",Asia,Other Entity,"China, Macao SAR","China, Macao Special Administrative Region",MO,MAC,1900,false
+133,450,Madagascar,Africa,Sovereign Country,Madagascar,Madagascar,MG,MDG,1900,false
+134,454,Malawi,Africa,Sovereign Country,Malawi,Malawi,MW,MWI,1965,false
+135,458,Malaysia,Asia,Sovereign Country,Malaysia,Malaysia,MY,MYS,1964,false
+136,462,Maldives,Asia,Sovereign Country,Maldives,Maldives,MV,MDV,1900,false
+137,466,Mali,Africa,Sovereign Country,Mali,Mali,ML,MLI,1900,false
+138,470,Malta,Europe,Sovereign Country,Malta,Malta,MT,MLT,1900,false
+139,471,"CACM, nes",North America,NES,"CACM, nes","CACM, not elsewhere specified",,R91,1900,true
+140,472,"Africa CAMEU region, nes",Africa,NES,"Africa CAMEU region, nes","Africa CAMEU region, not elsewhere specified",,_AC,1900,true
+141,473,"LAIA, nes",South America,NES,"LAIA, nes","LAIA, not elsewhere specified",,A79,1900,true
+142,474,Martinique,North America,Other Entity,Martinique (Overseas France),Martinique (Overseas France),MQ,MTQ,1900,false
+143,478,Mauritania,Africa,Sovereign Country,Mauritania,Mauritania,MR,MRT,1900,false
+144,480,Mauritius,Africa,Sovereign Country,Mauritius,Mauritius,MU,MUS,1900,false
+145,484,Mexico,North America,Sovereign Country,Mexico,Mexico,MX,MEX,1900,false
+146,488,Midway Islands,Oceania,Territory,Midway Islands,Midway Islands,,_MI,1900,false
+147,490,"Other Asia, nes",Asia,NES,"Other Asia, nes","Other Asia, not elsewhere specified",,S19,1900,true
+148,492,"Europe EU, nes",Europe,Other Entity,"Europe EU, nes","Europe EU, not elsewhere specified",MC,MCO,1900,false
+149,496,Mongolia,Asia,Sovereign Country,Mongolia,Mongolia,MN,MNG,1900,false
+150,498,Rep. of Moldova,Europe,Sovereign Country,Rep. of Moldova,Republic of Moldova,MD,MDA,1992,false
+151,499,Montenegro,Europe,Sovereign Country,Montenegro,Montenegro,ME,MNE,2006,false
+152,500,Montserrat,North America,Other Entity,Montserrat,Montserrat,MS,MSR,1900,false
+153,504,Morocco,Africa,Sovereign Country,Morocco,Morocco,MA,MAR,1900,false
+154,508,Mozambique,Africa,Sovereign Country,Mozambique,Mozambique,MZ,MOZ,1900,false
+155,512,Oman,Asia,Sovereign Country,Oman,Oman,OM,OMN,1900,false
+156,516,Namibia,Africa,Sovereign Country,Namibia,Namibia,NA,NAM,2000,false
+157,520,Nauru,Oceania,Sovereign Country,Nauru,Nauru,NR,NRU,1900,false
+158,524,Nepal,Asia,Sovereign Country,Nepal,Nepal,NP,NPL,1900,false
+159,527,"Oceania, nes",Oceania,NES,"Oceania, nes","Oceania, not elsewhere specified",,O19,1900,true
+160,528,Netherlands,Europe,Sovereign Country,Netherlands,Netherlands,NL,NLD,1900,false
+161,531,Curaçao,North America,Other Entity,Curaçao,Curaçao,CW,CUW,2010,false
+162,533,Aruba,North America,Other Entity,Aruba,Aruba,AW,ABW,1988,false
+163,534,Saint Maarten,North America,Territory,Saint Maarten (Dutch part),Saint Maarten (Dutch part),SX,SXM,2010,false
+164,535,Bonaire,North America,Other Entity,Bonaire,"Bonaire, Saint Eustatius and Saba",BQ,BES,2010,false
+165,536,Neutral Zone,Asia,Unknown,Neutral Zone,Neutral Zone,NT,NTZ,1900,false
+166,540,New Caledonia,Oceania,Other Entity,New Caledonia,New Caledonia,NC,NCL,1900,false
+167,548,Vanuatu,Oceania,Sovereign Country,Vanuatu,Vanuatu,VU,VUT,1900,false
+168,554,New Zealand,Oceania,Sovereign Country,New Zealand,New Zealand,NZ,NZL,1900,false
+169,558,Nicaragua,North America,Sovereign Country,Nicaragua,Nicaragua,NI,NIC,1900,false
+170,562,Niger,Africa,Sovereign Country,Niger,Niger,NE,NER,1900,false
+171,566,Nigeria,Africa,Sovereign Country,Nigeria,Nigeria,NG,NGA,1900,false
+172,568,"Other Europe, nes",Europe,NES,"Other Europe, nes","Other Europe, not elsewhere specified",,E19,1900,true
+173,570,Niue,Oceania,Other Entity,Niue,Niue,NU,NIU,1900,false
+174,574,Norfolk Isds,Oceania,Other Entity,Norfolk Isds,Norfolk Islands,NF,NFK,1900,false
+175,577,"Other Africa, nes",Africa,NES,"Other Africa, nes","Other Africa, not elsewhere specified",,F19,1900,true
+176,578,"Norway, excluding Svalbard and Jan Mayen",Europe,Other Entity,"Norway, excluding Svalbard and Jan Mayen","Norway, excluding Svalbard and Jan Mayen",NO,NOR,1900,false
+177,579,Norway,Europe,Sovereign Country,Norway,"Norway, Svalbard and Jan Mayen",NO,NOR,1900,false
+178,580,N. Mariana Isds,Oceania,Other Entity,N. Mariana Isds,Northern Mariana Islands,MP,MNP,1992,false
+179,581,United States Minor Outlying Islands,North America,Territory,United States Minor Outlying Islands,United States Minor Outlying Islands,UM,UMI,1900,false
+180,583,FS Micronesia,Oceania,Sovereign Country,FS Micronesia,Federated State of Micronesia,FM,FSM,1992,false
+181,584,Marshall Isds,Oceania,Sovereign Country,Marshall Isds,Marshall Islands,MH,MHL,1992,false
+182,585,Palau,Oceania,Sovereign Country,Palau,Palau,PW,PLW,1992,false
+183,586,Pakistan,Asia,Sovereign Country,Pakistan,Pakistan,PK,PAK,1972,false
+184,591,Panama,North America,Sovereign Country,Panama,Panama,PA,PAN,1978,false
+185,598,Papua New Guinea,Oceania,Sovereign Country,Papua New Guinea,Papua New Guinea,PG,PNG,1900,false
+186,600,Paraguay,South America,Sovereign Country,Paraguay,Paraguay,PY,PRY,1900,false
+187,604,Peru,South America,Sovereign Country,Peru,Peru,PE,PER,1900,false
+188,608,Philippines,Asia,Sovereign Country,Philippines,Philippines,PH,PHL,1900,false
+189,612,Pitcairn,Oceania,Territory,Pitcairn,Pitcairn,PN,PCN,1900,false
+190,616,Poland,Europe,Sovereign Country,Poland,Poland,PL,POL,1900,false
+191,620,Portugal,Europe,Sovereign Country,Portugal,Portugal,PT,PRT,1900,false
+192,624,Guinea-Bissau,Africa,Sovereign Country,Guinea-Bissau,Guinea-Bissau,GW,GNB,1900,false
+193,626,Timor-Leste,Asia,Sovereign Country,Timor-Leste,Timor-Leste,TL,TLS,2002,false
+194,630,Puerto Rico,North America,Other Entity,Puerto Rico ,Puerto Rico ,PR,PRI,1900,false
+195,634,Qatar,Asia,Sovereign Country,Qatar,Qatar,QA,QAT,1900,false
+196,636,"Rest of America, nes",Unknown,NES,"Rest of America, nes","Rest of America, not elsewhere specified",,A79,1900,true
+197,637,"North America and Central America, nes",Unknown,NES,"North America and Central America, nes","North America, the Caribbean and Central America not elsewhere specified",,A59,1900,true
+198,642,Romania,Europe,Sovereign Country,Romania,Romania,RO,ROU,1900,false
+199,643,Russian Federation,Europe,Sovereign Country,Russian Federation,Russian Federation,RU,RUS,1992,false
+200,646,Rwanda,Africa,Sovereign Country,Rwanda,Rwanda,RW,RWA,1900,false
+201,652,Saint Barthélemy,North America,Other Entity,Saint Barthélemy,Saint Barthélemy,BL,BLM,2013,false
+202,654,Saint Helena,Africa,Other Entity,Saint Helena,Saint Helena,SH,SHN,1900,false
+203,659,Saint Kitts and Nevis,North America,Sovereign Country,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,1981,false
+204,660,Anguilla,North America,Other Entity,Anguilla,Anguilla,AI,AIA,1981,false
+205,662,Saint Lucia,North America,Sovereign Country,Saint Lucia,Saint Lucia,LC,LCA,1900,false
+206,663,Saint Martin,North America,Other Entity,Saint Martin (French part) ,Saint Martin (French part) ,MF,MAF,1900,false
+207,666,Saint Pierre and Miquelon,North America,Other Entity,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,1900,false
+208,670,Saint Vincent and the Grenadines,North America,Sovereign Country,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,1900,false
+209,674,San Marino,Europe,Sovereign Country,San Marino,San Marino,SM,SMR,1900,false
+210,678,Sao Tome and Principe,Africa,Sovereign Country,Sao Tome and Principe,Sao Tome and Principe,ST,STP,1900,false
+211,682,Saudi Arabia,Asia,Sovereign Country,Saudi Arabia,Saudi Arabia,SA,SAU,1900,false
+212,686,Senegal,Africa,Sovereign Country,Senegal,Senegal,SN,SEN,1900,false
+213,688,Serbia,Europe,Sovereign Country,Serbia,Serbia,RS,SRB,2006,false
+214,690,Seychelles,Africa,Sovereign Country,Seychelles,Seychelles,SC,SYC,1900,false
+215,694,Sierra Leone,Africa,Sovereign Country,Sierra Leone,Sierra Leone,SL,SLE,1900,false
+216,697,"Europe EFTA, nes",Europe,NES,"Europe EFTA, nes","Europe EFTA, not elsewhere specified",,R20,1900,true
+217,699,India,Asia,Sovereign Country,India,India,IN,IND,1975,false
+218,702,Singapore,Asia,Sovereign Country,Singapore,Singapore,SG,SGP,1900,false
+219,703,Slovakia,Europe,Sovereign Country,Slovakia,Slovakia,SK,SVK,1993,false
+220,704,Viet Nam,Asia,Sovereign Country,Viet Nam,Viet Nam,VN,VNM,1975,false
+221,705,Slovenia,Europe,Sovereign Country,Slovenia,Slovenia,SI,SVN,1992,false
+222,706,Somalia,Africa,Sovereign Country,Somalia,Somalia,SO,SOM,1900,false
+223,710,South Africa,Africa,Sovereign Country,South Africa,South Africa,ZA,ZAF,2000,false
+224,716,Zimbabwe,Africa,Sovereign Country,Zimbabwe,Zimbabwe,ZW,ZWE,1965,false
+225,724,Spain,Europe,Sovereign Country,Spain,Spain,ES,ESP,1900,false
+226,728,South Sudan,Africa,Sovereign Country,South Sudan,South Sudan,SS,SSD,2011,false
+227,729,Sudan,Africa,Sovereign Country,Sudan,Sudan,SD,SDN,2011,false
+228,732,Western Sahara,Africa,Territory,Western Sahara,Western Sahara,EH,ESH,1900,false
+229,740,Suriname,South America,Sovereign Country,Suriname,Suriname,SR,SUR,1900,false
+230,744,Svalbard and Jan Mayen Islands,Europe,Other Entity,Svalbard and Jan Mayen Islands ,Svalbard and Jan Mayen Islands ,SJ,SJM,1900,false
+231,748,Eswatini,Africa,Sovereign Country,Eswatini,the Kingdom of Eswatini,SZ,SWZ,2000,false
+232,752,Sweden,Europe,Sovereign Country,Sweden,Sweden,SE,SWE,1900,false
+233,756,Switzerland,Europe,Sovereign Country,Switzerland ,Switzerland ,CH,CHE,1900,false
+234,757,Switzerland,Europe,Sovereign Country,Switzerland,"Switzerland, Liechtenstein",CH,CHE,1900,false
+235,760,Syria,Asia,Sovereign Country,Syria,Syria,SY,SYR,1900,false
+236,762,Tajikistan,Asia,Sovereign Country,Tajikistan,Tajikistan,TJ,TJK,1992,false
+237,764,Thailand,Asia,Sovereign Country,Thailand,Thailand,TH,THA,1900,false
+238,768,Togo,Africa,Sovereign Country,Togo,Togo,TG,TGO,1900,false
+239,772,Tokelau,Oceania,Other Entity,Tokelau,Tokelau,TK,TKL,1900,false
+240,776,Tonga,Oceania,Sovereign Country,Tonga,Tonga,TO,TON,1900,false
+241,780,Trinidad and Tobago,North America,Sovereign Country,Trinidad and Tobago,Trinidad and Tobago,TT,TTO,1900,false
+242,784,United Arab Emirates,Asia,Sovereign Country,United Arab Emirates,United Arab Emirates,AE,ARE,1900,false
+243,788,Tunisia,Africa,Sovereign Country,Tunisia,Tunisia,TN,TUN,1900,false
+244,792,Türkiye,Asia,Sovereign Country,Türkiye,Türkiye,TR,TUR,1900,false
+245,795,Turkmenistan,Asia,Sovereign Country,Turkmenistan,Turkmenistan,TM,TKM,1992,false
+246,796,Turks and Caicos Isds,North America,Other Entity,Turks and Caicos Isds,Turks and Caicos Islands,TC,TCA,1900,false
+247,798,Tuvalu,Oceania,Sovereign Country,Tuvalu,Tuvalu,TV,TUV,1900,false
+248,800,Uganda,Africa,Sovereign Country,Uganda,Uganda,UG,UGA,1900,false
+249,804,Ukraine,Europe,Sovereign Country,Ukraine,Ukraine,UA,UKR,1992,false
+250,807,North Macedonia,Europe,Sovereign Country,North Macedonia,North Macedonia,MK,MKD,1993,false
+251,818,Egypt,Africa,Sovereign Country,Egypt,Egypt,EG,EGY,1900,false
+252,826,United Kingdom,Europe,Sovereign Country,United Kingdom,United Kingdom,GB,GBR,1900,false
+253,830,Channel Islands,North America,Territory,Channel Islands ,Channel Islands ,,_CI,1900,false
+254,831,Guernsey,Europe,Other Entity,Guernsey,Guernsey,GG,GGY,1900,false
+255,832,Jersey,Europe,Other Entity,Jersey,Jersey,JE,JEY,1900,false
+256,833,Isle of Man,Europe,Other Entity,Isle of Man ,Isle of Man ,IM,IMN,1900,false
+257,834,United Rep. of Tanzania,Africa,Sovereign Country,United Rep. of Tanzania,United Republic of Tanzania,TZ,TZA,1965,false
+258,837,Bunkers,Unknown,Unknown,Bunkers,Bunkers,,X1,1900,true
+259,838,Free Zones,Unknown,Unknown,Free Zones,Free Zones,,X2,1900,true
+260,839,Special Categories,Unknown,Unknown,Special Categories,Special Categories,,XX ,1900,true
+261,840,United States of America,North America,Sovereign Country,United States of America,United States of America,US,USA,1900,false
+262,842,"USA, Including Puerto Rico and US Virgin Islands",North America,Territory,"USA, Including Puerto Rico and US Virgin Islands","USA, Including Puerto Rico and US Virgin Islands",US,USA,1981,false
+263,849,US Misc. Pacific Isds,North America,Territory,US Misc. Pacific Isds,US Miscellaneous Pacific Islands,PU,PUS,1900,false
+264,854,Burkina Faso,Africa,Sovereign Country,Burkina Faso,Burkina Faso,BF,BFA,1900,false
+265,858,Uruguay,South America,Sovereign Country,Uruguay,Uruguay,UY,URY,1900,false
+266,860,Uzbekistan,Asia,Sovereign Country,Uzbekistan,Uzbekistan,UZ,UZB,1992,false
+267,862,Venezuela,South America,Sovereign Country,Venezuela,Venezuela,VE,VEN,1900,false
+268,872,Wake Island,Oceania,Other Entity,Wake Island,Wake Island,,_WI,1900,false
+269,876,Wallis and Futuna Isds,Oceania,Other Entity,Wallis and Futuna Isds,Wallis and Futuna Islands,WF,WLF,1900,false
+270,879,"Western Asia, nes",Asia,NES,"Western Asia, nes","Western Asia, not elsewhere specified",,F97,1900,true
+271,882,Samoa,Oceania,Sovereign Country,Samoa,Samoa,WS,WSM,1900,false
+272,887,Yemen,Asia,Sovereign Country,Yemen,Yemen,YE,YEM,1991,false
+273,894,Zambia,Africa,Sovereign Country,Zambia,Zambia,ZM,ZMB,1965,false
+274,899,"Areas, nes",Unknown,Unknown,"Areas, nes","Areas, not elsewhere specified",,_X ,1900,true
