@@ -284,15 +284,12 @@ After a full run with `COMTRADE_DATA_ROOT="."`:
 ├── match/
 │   ├── {year}_matched.csv             # rows with matched_id
 │   ├── {year}_unmatched.csv           # rows the matcher rejected
-│   ├── {year}_match_stats.json        # per-country MATCH stats
-│   ├── {year}_match_sample.csv        # 50-pair random preview
-│   └── {year}_sample_ids.json         # ids in the preview (used by misinvoicing sampler)
+│   └── {year}_match_stats.json        # per-country MATCH stats
 ├── clean/
 │   └── {year}.csv                     # strict-filter pair view
 ├── misinvoicing/
 │   ├── {year}.csv                     # per-pair residuals
-│   ├── {year}_stats.json              # phase sidecar
-│   └── {year}_misinvoicing_sample.csv # preview aligned with match sample
+│   └── {year}_stats.json              # phase sidecar
 └── logs/
     └── pipeline.log                   # rotating run log
 ```
@@ -305,26 +302,36 @@ diagnostics — they're written atomically and survive across runs.
 ## Repository layout
 
 ```
-app/
-├── config.py                  # all knobs live here
-├── main.py                    # terminal entry point
-├── core/
-│   ├── db.py                  # reporter / HS lookup, concordance
-│   ├── gzcache.py             # .gz cache index
-│   ├── logger.py              # rotating logger
-│   ├── notifier.py            # terminal-only status helpers
-│   └── progress.py            # crash-resume sidecars
-├── data/                      # reference CSVs (reporter codes, HS, concordance, etc.)
-├── pipeline/
-│   ├── retrieval.py           # phase 1
-│   ├── extract.py             # phase 2 (aggregate)
-│   ├── match.py               # phase 3
-│   └── misinvoicing.py        # phase 4
-└── tests/
+.
+├── README.md
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── app/
+│   ├── config.py                 # every per-run knob lives here
+│   ├── main.py                   # terminal entry point
+│   ├── core/
+│   │   ├── db.py                 # reporter lookup, HS concordance, entrepôt set
+│   │   ├── gzcache.py            # raw .gz cache index + validation
+│   │   ├── logger.py              # rotating file + console logger
+│   │   ├── notifier.py            # terminal status helpers + Ctrl-C handling
+│   │   └── progress.py            # crash-resume sidecars (atomic JSON writes)
+│   ├── data/
+│   │   ├── reporter_codes.csv    # ~250 reporter countries (M49 + ISO + names)
+│   │   └── reference/
+│   │       ├── cif_fob_factor.csv         # per-motCode CIF/FOB uplift
+│   │       ├── entrepot_reporters.csv     # re-export hubs flag
+│   │       ├── hs_concordance.csv         # cross-revision HS6 crosswalk
+│   │       └── qty_unit_conversion.csv    # per-qtyUnitCode dimensional table
+│   └── pipeline/
+│       ├── retrieval.py          # phase 1 — download
+│       ├── extract.py            # phase 2 — aggregate + filter
+│       ├── match.py              # phase 3 — pairing + clean view
+│       └── misinvoicing.py       # phase 4 — residuals
+└── scripts/
+    ├── README.md
+    ├── build_hs_concordance.py   # (re)build hs_concordance.csv from UNSD tables
+    └── hs_concordance_src/        # drop UNSD source tables here (gitignored)
+        └── README.md
 ```
 
----
-
-## License
-
-See `LICENSE`.
